@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img alt="OrcaSlicer logo" src="resources/images/OrcaSlicer.png" width="15%" height="15%">
+  <img alt="OrcaSlicer logo" src="resources/images/directed Slop.png" width="40%" height="40%">
 </picture>
 
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
